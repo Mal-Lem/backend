@@ -1,0 +1,122 @@
+.Abbout{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 100px;
+}
+
+
+.Abbout h2{ 
+    font-weight: 600;
+    line-height: 55px;
+    font-size: 30px;
+    text-decoration: none;
+    position: relative;
+}
+
+.underline{
+    width: 200px;
+    display: flex;
+    margin-left: 450px;
+    margin-top: -130px;
+    margin-bottom: 90px;
+    height: 20px;
+    background-color: #DCE006;
+
+}
+.cardy{
+    display: inline-flex;
+    margin-top: 70px;
+    margin-bottom: 60px;
+
+}
+
+
+
+.cardy .cards1{
+    box-shadow: 0px 4px 10px #1B9D91;
+    border-radius: 25px;    
+    width: 300px;  
+    height: 180px;
+    padding:20px 20px 20px 20px;
+    margin-left: 40px;
+    margin-right: 70px;
+    
+    
+}
+.cardy .cards1 h2{
+    text-align: center;
+    margin-top: -150px;
+    margin-bottom:90px;
+    float: left;
+
+}
+.cardy .cards2 h2{
+    text-align: center;
+    margin-top: -150px;
+    margin-bottom:90px;
+    float: left;
+
+}
+.cardy .cards3 h2{
+    text-align: center;
+    margin-top: -150px;
+    margin-bottom:90px;
+    float: left;
+
+}
+.cardy .cards2{
+box-shadow: 0px 4px 10px  #DCE006;
+border-radius: 25px;    
+width: 300px;  
+height: 180px;
+padding:20px 20px 20px 20px;
+margin-right: 70px;
+
+}
+.cardy .cards3{
+box-shadow: 0px 4px 10px #1B9D91;
+border-radius: 25px;    
+width: 300px;  
+height: 180px;
+padding:20px 20px 20px 20px;
+background-color: white;
+float: Right;
+}
+.cardy .cards1 .cards2 .cards3 h2{
+color: black;
+font-size: 16px;
+line-height: 20px;
+text-align: left;
+padding-top: 20px;
+}
+.cardy .cards3 img{
+    width: 100%;
+    margin-top:-45px ;
+    margin-left: 50px;
+}
+.cardy .cards2 img{
+    width: 100%;
+    margin-top:-30px ;
+    margin-left: 80px;
+}
+.cardy .cards1 img{
+    width: 100%;
+    margin-top:-45px ;
+    margin-left: 145px;
+}
+
+.send{
+    position: absolute;
+    margin-top: 21px;
+}
+
+.rotateimg180 {
+    -webkit-transform:rotate(180deg);
+    -moz-transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+    -o-transform: rotate(180deg);
+    transform: rotate(180deg);
+    position: absolute;
+    right: 80px;
+    margin-top: -100px;
+  }
